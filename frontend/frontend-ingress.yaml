@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: cop.registration.io
+  - host: cop.registration.adessi
     http:
       paths:
       - path: /
